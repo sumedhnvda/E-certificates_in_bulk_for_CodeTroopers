@@ -25,9 +25,9 @@ class CertificateGenerator:
         
         prefix = "This is to certify that "
         suffix = " has successfully attended a talk on "
-        talk_title = '"Cloud Native Architecture"'
+        talk_title = '"_____________________________"'
         location = " at\nShri Madhwa Vadiraja Institute of Technology and Management, Bantakal"
-        date = "on November 7, 2024."
+        date = "on ___________ __, ____."
         
        
         start_y = self.HEIGHT * 0.5
